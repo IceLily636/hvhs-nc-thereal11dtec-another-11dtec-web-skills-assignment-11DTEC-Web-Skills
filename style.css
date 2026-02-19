@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: cadetblue;
   }
 
   img {
@@ -30,3 +30,15 @@ height:200px;
   ul li a:hover {
     background-color: #111111;
   }
+
+header{
+background-color:rgb(169, 205, 206);
+
+}
+
+
+
+
+
+
+
