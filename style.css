@@ -1,3 +1,5 @@
+html{
+background-color:beige;
 body, html {
   height: 100%;
   margin: 0;
@@ -70,14 +72,17 @@ color: white;
 }
 
 
-.img1{
-  width:200px ;
-  height: 100px;
+.p{
+font-family:Brush Script MT, cursive;
+
+}
+
+#mycastle{
+width:300px ;
+  height: 200px;  
 }
 
 
 
 
-
-
-
+}
